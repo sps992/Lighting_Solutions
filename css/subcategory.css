@@ -1,0 +1,361 @@
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+body{font-family: 'PT Sans', sans-serif;}
+
+#LedMenu{font-weight: bold;}
+a:hover#LedMenu{color:yellow!important;}
+
+a:focus, a:hover{
+  color:black!important;
+}
+
+
+a{ color:white;
+    text-decoration: none!important;}
+h4{
+  font-size: x-large;
+
+  margin-top:20px;
+}
+
+a:hover{
+  color:black!important;}
+
+ul li:hover{ color:black!important}
+
+  #helvetica{margin-top: 10px;}
+
+.navbar{
+    background-color: #E6E6E6;
+    font-family: Calibri, sans-serif;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 10px;
+
+  }
+.navbar-brand{
+    color:#3B3A36;
+    font-size: 0.3em;
+    padding-bottom: 40px;
+
+    line-height: 15px;
+      }
+.navbar-brand:hover{
+    color:#3B3A36;
+    font-size: 0.3em;
+    line-height: 15px;
+            }
+
+
+.navLinks {
+      font-size:20px;
+
+
+
+    }
+.active{
+  background-color:#EEEEEE!important;
+
+
+}
+
+.jumbotron{
+
+  background-color:#012169;
+  color:white;
+  padding-top:58px;
+  margin-bottom: 0;
+
+}
+
+
+#jumbotronTagline{
+  padding-top:10px;
+}
+.categories{
+  position:relative;
+  top:50px;
+  align:center;
+  font-size:20px;
+}
+
+.btn:hover{
+color:white;
+background:#012169;
+}
+.btn{}
+  #footerDiv{
+    position:relative;
+    top:100px;
+    padding:6px;
+    width:100%;
+    color:#7c7c7c;
+    word-spacing: 3px;
+  }
+   #footerDiv p{
+     font-size: 14px;
+   }
+
+.footerHr{
+  clear:both;
+  align:center;
+  border-color:#b2b0b0;
+
+}
+.categoryImages{
+  height:150px;
+  margin:20px;
+
+}
+
+#images{
+  width:auto;
+  height:200px;
+  padding:25px;
+}
+.box {
+  background-color:#d6d6d6;
+  border: 1px solid black; }
+.row {
+  text-align: left;
+}
+#navbarHr{
+  margin:0;
+  padding:0;
+  position:relative;
+  top:1px;
+  border-color:#012169;
+}
+/*
+.productTitle{
+  font-size:25px;
+  font-weight:lighter;
+  color:#404040;
+}*/
+.alert{
+
+  text-align:center;
+  font-size:1.2em;
+}
+.widthCorrection{
+  color:black;
+  height:70px;
+  width:149px;
+
+
+}
+div#navbar.navbar-collapse.collapse{
+  height:69px;
+}
+
+.iconBarColor{
+  background-color:#012169;
+}
+.NavSmallerFont{
+  font-size:75%;
+  padding-bottom:0px;
+  text-align:center;
+
+}
+.candleTitle{ font-family: 'PT Sans', sans-serif;
+              font-weight: bold;}
+
+
+@media (min-width: 979px) {
+  ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;
+  }
+}
+
+@media screen and (min-width:826px)and (max-width:1287px)
+{body{
+  margin-top: 115px;
+
+}
+#phoneLinebreak{ display:none;;
+
+
+}
+}
+
+@media screen and (min-width:768px)and (max-width:1089px)
+{body{
+  margin-top: 195px;
+
+}
+#phoneLinebreak{ display:none;;
+
+
+}
+}
+
+@media screen and (min-width:1265px)
+{body{
+  margin-top: 70px;
+
+}
+#phoneLinebreak{ display:none;;
+
+
+}
+}
+
+@media screen and (max-width:787px)
+{#phoneLinebreak{ display:block;
+
+
+}}
+
+@media screen and (max-width:767px)
+{.widthCorrection{
+  width:auto;
+  }}
+
+@media screen and (max-width:767px)
+  {body{
+    padding-top: 24px;
+
+  }
+  #phoneLinebreak{ display:none;;
+
+
+  }
+  }
+
+
+
+
+
+/* Modal*/
+@media screen and (max-width: 447px){
+    td, th {
+    width:50%!important;
+    font-size: 12.5px!important;
+    padding-right: 1px;
+  }
+
+  }
+  @media screen and (min-width: 768px) and (max-width: 991px){
+    .col-sm-6{
+      width:100%!important;
+    }
+
+
+
+}
+
+#textCenter{
+ text-align: center;
+}
+
+.float-right{
+  float:right;
+}
+.modal-title{
+  font-size: larger;
+  font-weight: bold;
+}
+
+#modalBlurb{
+  line-height:2em;
+  font-size: 12px;
+  text-align: left;
+
+}
+#optionText{
+  line-height:2em;
+  font-family: Calibri, sans-serif;
+  font-size: 14px;
+  text-align: left;
+
+}
+#optionTextHeader{
+  line-height:2em;
+  font-family: Calibri, sans-serif;
+  font-size: 14px;
+  text-align: left!important;
+
+}
+.modalTextLeft{
+  float:left;
+}
+#modalTable{
+  line-height: 28.5714px;
+}
+#modalTable td{
+  font-size: 16px;
+}
+.tableTitle{
+  font-weight: bold;
+  font-size: large;
+}
+.tablep{
+  font-size: 15px;
+}
+th{
+
+  font-weight:bold;
+  font-family: Calibri, sans-serif;
+}
+th.optionTable{
+  padding-top: 28px;
+}
+tr{
+  font-family: Calibri, sans-serif;
+   padding:10px;
+
+}
+td{
+  width:150px;
+  text-align: left;
+}
+img.details{
+  width:350px;
+  margin:10px;
+  height:auto;
+}
+
+
+.col-md-3{
+    padding: 15px;
+}
+
+strong{
+  font-weight: 900;
+  color:#012169;}
+
+p{
+  font-size:larger;
+  letter-spacing: 0.1px;
+}
+
+label{
+  font-family: Calibri, sans-serif;
+}
+
+/*End of Modal*/
+
+div#navbar.navbar-collapse.collapse.in{
+  height:600px;
+}
+.navbar-fixed-bottom.navbar-collapse.navbar-fixed-top.navbar-collapse{
+  max-height: 477px;
+}
+.textBlue{
+  color:#012169;
+}
+.contactFormTitle{
+  font-size:40px;
+  font-weight:bold;
+  color:#012169;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+@media screen and (max-width:767px)
+{.widthCorrection{
+  width:auto;
+  }
+.navLinks{margin-right: auto;}}

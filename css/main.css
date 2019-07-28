@@ -1,0 +1,68 @@
+
+
+.navbar{
+    background-color: #E6E6E6;
+    font-family: Calibri;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 10px;
+
+  }
+.navbar-brand{
+    color:#3B3A36;
+    font-size: 0.3em;
+    position:relative;
+    top:-6px;
+    line-height: 15px;
+}
+.jumbotron{
+  position:relative;
+  top:50px;
+  background-color:#012169;
+  color:white;
+}
+.categories{
+  position:relative;
+  top:50px;
+  align:center;
+}
+.btn{
+  background-color:#012169;
+  color: white;}
+  .btn:hover{
+    background-color:#012169;
+    color: white!important;}
+.footer{
+  color:#b2b0b0;
+  align:center;
+  text-align: center;
+}
+#footerHr{
+  align:center;
+  border-color:#b2b0b0;
+
+}
+.categoryImages{
+  height:150px;
+  margin:30px;
+
+}
+.box {
+  background-color:#d6d6d6;
+  border: 1px solid black; }
+.row {
+  text-align: center;
+}
+#navbarHr{
+  margin:0;
+  padding:0;
+  position:relative;
+  top:1px;
+  border-color:#b2b0b0;
+}
+
+a.navlinks:hover{
+  background-color: #E6E6E6;
+
+}
