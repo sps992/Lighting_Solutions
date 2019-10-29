@@ -1,14 +1,9 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Lighting Solutions
 
+## A Work in Progress
 
-Hi there! Welcome to AWS Cloud9!
+This project was never completely finished and then shelved due to the client changing his mind and project scope. It was a big learning curve, not just with the coding itself but also with the way I need to avoid this happeningin the future.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+## Looking Back
 
-Happy coding!
+When I look back at this project I realise how valuable wireframing and using a project proposal really is, and stands to be one of the main reasons I use it today in my current work.
